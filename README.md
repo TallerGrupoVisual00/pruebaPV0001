@@ -6,3 +6,4 @@ daniel vinces
 Gabriela Requena
 Hernan Quinde
 fernando Ordoñez
+Walther Fabre
